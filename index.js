@@ -36,3 +36,14 @@ function currentLine(estherDeliLine) {
   }
 }
 
+var count =[];
+
+function giveANumber(esther) {
+  return 
+}
+
+
+
+
+
+
