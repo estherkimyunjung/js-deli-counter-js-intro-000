@@ -37,12 +37,15 @@ function currentLine(estherDeliLine) {
 }
 
 var count =[];
+var esther = [];
 
 function giveANumber(esther) {
-  return 
+esther.push(esther.length+1);
+
+return esther;
 }
 
-
+giveANumber(esther);
 
 
 
