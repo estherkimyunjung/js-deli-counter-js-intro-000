@@ -36,11 +36,11 @@ function currentLine(estherDeliLine) {
   }
 }
 
-var count =[];
+
 var esther = [];
 
 function giveANumber(esther) {
-esther.push(esther.length+1);
+esther.push(esther.length+1); // I used var count esther.push(count+1); count++; but we don't need one for another variable use length insted
 
 return esther;
 }
